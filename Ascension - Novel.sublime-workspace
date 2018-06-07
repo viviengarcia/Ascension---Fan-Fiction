@@ -1,0 +1,472 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inlne",
+				"inline-flex"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"si",
+				"size-h6"
+			],
+			[
+				"color",
+				"colorset_page-regular-background-shadow"
+			],
+			[
+				"colorset",
+				"colorset_page-regular-background"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"menu",
+				"menu-dropdown-button"
+			],
+			[
+				"block",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Ascension - Novel.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 15811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"marked",
+				"Marked"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Marked"
+			],
+			[
+				"m",
+				"Marked"
+			],
+			[
+				"da",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"mar",
+				"Marked"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			]
+		],
+		"width": 613.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel"
+	],
+	"file_history":
+	[
+		"/Ascension - Novel.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/.git/description",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Description Sheet/README.md",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/README.md",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/Web Serial - A Custom Marked Stylesheet.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/Web Serial - A Custom Marked Stylesheet.sublime-workspace",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_test/publite.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_test/marked.html",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel/Ascension-Web-Serial/docs/chapitres/source-1.1/index.html",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel/Ascension-Web-Serial/_posts/2018-04-06-source-1.1.md",
+		"/Volumes/Data/vivien/Desktop/plot.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_test/index.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/MarkedCustomStyles/Pesto.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_out/Web Serial.css",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss Comment (small).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss @include.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss Comment (large).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss Comment (medium).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss @mixin.sublime-snippet",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_test/index.pug",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/MarkedCustomStyles/generate_examples/out/Header.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/MarkedCustomStyles/Firates.css",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/MarkedCustomStyles/generate_examples/out/Firates.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_test/index.md",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/_vars.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/Web Serial.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/_normalize.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/_js.scss",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/CSS - Scss @extend.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - @media.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/md/Markdown - Image.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Dialog Dash.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Character (almost equal).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Guillemets (closed).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Guillemets (open).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Word (Brockton Bay).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Word (Endbringers).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Markdown - Word (Etats-Unis).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - Scss Media query (desktop).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - Scss Media query (phablet).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - Scss Media query (phone).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - Scss Media query (tablet).sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/CSS - media-query-desktop.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/Scss - @extend.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/scss/Scss - @extend.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/scss/scss-@extend.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/All - Todo.sublime-snippet",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/partial-sass-comment.sublime-snippet",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_out/Web Serial.css.map",
+		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/_main.scss",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.aliases",
+		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/Firefox 58/Location - default profile/chrome/userChrome.css",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_out/Web Serial.css",
+		"/Volumes/Data/vivien/Digital Creation/Ascension/_config.yml",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_out/Web Serial.css.map",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_test/index.pug",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_test/various.html",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_in/pug/index.pug",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_test/index.html",
+		"/usr/local/lib/node_modules/jstransformer-markdown-it/node_modules/markdown-it/package.json",
+		"/Volumes/Data/vivien/package-lock.json",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/post.md",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.path",
+		"/Volumes/Data/vivien/.bash_profile",
+		"/Volumes/Data/vivien/.bash/.prompt",
+		"/Volumes/Data/vivien/.bash/.path",
+		"/Volumes/Data/vivien/.bash/.aliases",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.extras",
+		"/Volumes/Data/vivien/.bash/.exports",
+		"/Volumes/Data/vivien/.bash/.extras",
+		"/Volumes/Data/vivien/.bash/.inputrc",
+		"/Volumes/Data/vivien/.bash/.functions",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/prompt",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/path",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/inputrc",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/functions",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/extras",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/exports",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/bash_profile",
+		"/Volumes/Data/vivien/.bash_history",
+		"/private/etc/shells",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/aliases",
+		"/Volumes/Data/vivien/.iterm2_shell_integration.bash",
+		"/Volumes/Data/vivien/.bash/aliases",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/install.sh",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/symlinks.sh",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/cask",
+		"/Volumes/Data/vivien/Digital Creation/Ascension/Ascension - Plot.md",
+		"/Volumes/Vivien_OLD/Users/vivien/Documents/Recettes de Cuisine/Charlotte Royale.md",
+		"/Volumes/Vivien_OLD/Users/vivien/Documents/Recettes de Cuisine/Croquettes au jambon.md",
+		"/Volumes/Vivien_OLD/Users/vivien/Documents/Recettes de Cuisine/Glacage Chocolat Mirroir.md",
+		"/Volumes/Vivien_OLD/Users/vivien/Documents/Recettes de Cuisine/Recette Mont d'Or.txt",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Installed Packages/Marked App Menu.sublime-package",
+		"/Applications/CodeKit.app/Contents/Resources/engines/node_modules/pug-filters/package.json",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_in/sass/Web Serial.scss",
+		"/Volumes/Data/vivien/Desktop/Ascension - Plot.md",
+		"/Volumes/Data/vivien/Desktop/Ascension - Eclosion 1.1.md",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_in/sass/_main.scss",
+		"/Applications/CodeKit.app/Contents/Resources/engines/node_modules/pug-filters/node_modules/jstransformer/package.json",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/config.codekit3",
+		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_in/sass/_debug.scss",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Packages/User/Snippets/tilde-equal.sublime-snippet",
+		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01].0/README",
+		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01] [2015-04-18_01-01].0/INFO",
+		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01] [2015-04-18_01-01].0/NEWS",
+		"/Volumes/Vivien_OLD/Users/vivien/Resources/Informatique/Mac OSX/Apps/Games/Emulation/Roms/PSP/enigmaconsole-castelvaniax.part1/NicoBlog.url",
+		"/Volumes/Data/vivien/Git/Marked-Custom-CSS/Github Repo/Grump.css",
+		"/Library/Scripts/Folder Action Scripts/enclose - create folder from item name and move it in.scpt",
+		"/Volumes/Data/vivien/Git/Marked-Custom-CSS/Github Repo/test_markup.md",
+		"/Volumes/Data/vivien/Desktop/Déclaration Handicap Sonia.md",
+		"/Volumes/Data/vivien/Desktop/deleteOldAdds.gs",
+		"/Volumes/Data/vivien/Dropbox/Mackup/Library/Application Support/Karabiner/private.xml",
+		"/Volumes/Data/vivien/Desktop/Narucheato.md",
+		"/Volumes/Data/vivien/Desktop/Narucheato - Notes.md",
+		"/Volumes/Data/vivien/Narucheato - Notes",
+		"/Volumes/Data/vivien/Pictures/PhotoRec Recovery/recup_dir.1/report.xml",
+		"/Volumes/Data/vivien/Desktop/Déclaration Handicap Sonia.md",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Base-Ball.gifv",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Wasted.gifv",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/People's Elbow.gifv",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Parade Nuptiale.gifv",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Huge Stairs Skate Jump.gifv",
+		"/Volumes/OSX Data/Users/vivien/Movies/Geek/ADHD.gifv",
+		"/Volumes/Data/vivien/Git/Dotfiles/conf/aliases",
+		"/Volumes/Data/vivien/Downloads/DI.FM - Favorites.pls"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Ascension - Novel.sublime-workspace",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ascension - Novel.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"marke",
+				"_test/marked.html"
+			],
+			[
+				"web",
+				"_in/sass/Web Serial.scss"
+			],
+			[
+				"mar",
+				"_in/sass/_marked.scss"
+			],
+			[
+				".css",
+				"_out/Web Serial.css"
+			],
+			[
+				"index",
+				"_test/index.html"
+			],
+			[
+				"pu",
+				"_test/index.pug"
+			],
+			[
+				"var",
+				"_in/sass/_vars.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Digital Creation/Ascension/Ascension.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

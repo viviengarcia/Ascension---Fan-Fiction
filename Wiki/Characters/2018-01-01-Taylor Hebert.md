@@ -4,7 +4,6 @@ category: characters
 layout: chapter
 ---
 
-
 ### Pouvoirs et caractéristiques
 
 Taylor Hebert est un puissant Brute/Master/Trump qui peut être prise pour un super de type Fourre-Tout. En rélité son pouvoir est double et évolutif. Seules ses capacités de Multi-Tâches sont liées au Shard Queen Administrator dans un premier temps. Avec son harmonisation avec son Shard, celui-ci va évoluer vers la compétence [Reconfiguration]. Noctis, Perfection physique, Aura et Cultivation sont des manifestations de son Ascension.

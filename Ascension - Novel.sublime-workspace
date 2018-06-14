@@ -56,10 +56,19 @@
 	"buffers":
 	[
 		{
-			"file": "Ascension - Novel.sublime-workspace",
+			"file": "Story/2018-01-01-origine-1.1.md",
 			"settings":
 			{
-				"buffer_size": 15811,
+				"buffer_size": 31330,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Story/2018-01-01-prologue-decadence.md",
+			"settings":
+			{
+				"buffer_size": 36646,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -77,6 +86,14 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
 				"marked",
 				"Marked"
 			],
@@ -87,14 +104,6 @@
 			[
 				"Package Control: ",
 				"Package Control: List Packages"
-			],
-			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"ma",
@@ -141,11 +150,34 @@
 	},
 	"expanded_folders":
 	[
-		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel"
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Novel/Story"
 	],
 	"file_history":
 	[
-		"/Ascension - Novel.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.aliases",
+		"/Volumes/Data/vivien/Library/QuickLook/QLColorCode.qlgenerator/Contents/Resources/README.md",
+		"/Volumes/Data/vivien/Digital Creation/_Perso/__System/_s3-20170601-2044/Dotfiles/conf/gitignore",
+		"/Volumes/Data/vivien/.gitignore",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/about.md",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Website/CNAME",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/CNAME",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Website/404/index.html",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/docs/404/index.html",
+		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.path",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/index.md",
+		"/Volumes/Data/vivien/Digital Creation/Ascension - Website/chapters/origine-1.1/index.html",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/_includes/url.html",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/PubLite.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/Publite.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/PubLite/Publite.sublime-workspace",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_in/sass/_hacks.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_in/sass/Web Serial.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/Web Serial - Marked Theme.sublime-project",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_out/web-serial.css",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_in/sass/_components.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_in/sass/_vars.scss",
+		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/_in/sass/_debug.scss",
 		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/.git/description",
 		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Description Sheet/README.md",
 		"/Volumes/Data/vivien/Digital Creation/Marked Themes/Web Serial/README.md",
@@ -195,7 +227,6 @@
 		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/SublimeText 3/Sublime Text 3/Packages/User/Snippets/css/partial-sass-comment.sublime-snippet",
 		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_out/Web Serial.css.map",
 		"/Volumes/Data/vivien/Digital Creation/Marked Custom Styles/Web Serial/_in/sass/_main.scss",
-		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.aliases",
 		"/Volumes/Data/vivien/Dropbox/_Vivien/__Repository/_Software/Firefox 58/Location - default profile/chrome/userChrome.css",
 		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/_out/Web Serial.css",
 		"/Volumes/Data/vivien/Digital Creation/Ascension/_config.yml",
@@ -207,7 +238,6 @@
 		"/usr/local/lib/node_modules/jstransformer-markdown-it/node_modules/markdown-it/package.json",
 		"/Volumes/Data/vivien/package-lock.json",
 		"/Volumes/Data/vivien/Digital Creation/Marked-Custom-CSS/Web Serial/post.md",
-		"/Volumes/Data/vivien/Digital Creation/Dotfiles/conf/.path",
 		"/Volumes/Data/vivien/.bash_profile",
 		"/Volumes/Data/vivien/.bash/.prompt",
 		"/Volumes/Data/vivien/.bash/.path",
@@ -252,31 +282,11 @@
 		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 3/Packages/User/Snippets/tilde-equal.sublime-snippet",
 		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01].0/README",
 		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01] [2015-04-18_01-01].0/INFO",
-		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01] [2015-04-18_01-01].0/NEWS",
-		"/Volumes/Vivien_OLD/Users/vivien/Resources/Informatique/Mac OSX/Apps/Games/Emulation/Roms/PSP/enigmaconsole-castelvaniax.part1/NicoBlog.url",
-		"/Volumes/Data/vivien/Git/Marked-Custom-CSS/Github Repo/Grump.css",
-		"/Library/Scripts/Folder Action Scripts/enclose - create folder from item name and move it in.scpt",
-		"/Volumes/Data/vivien/Git/Marked-Custom-CSS/Github Repo/test_markup.md",
-		"/Volumes/Data/vivien/Desktop/Déclaration Handicap Sonia.md",
-		"/Volumes/Data/vivien/Desktop/deleteOldAdds.gs",
-		"/Volumes/Data/vivien/Dropbox/Mackup/Library/Application Support/Karabiner/private.xml",
-		"/Volumes/Data/vivien/Desktop/Narucheato.md",
-		"/Volumes/Data/vivien/Desktop/Narucheato - Notes.md",
-		"/Volumes/Data/vivien/Narucheato - Notes",
-		"/Volumes/Data/vivien/Pictures/PhotoRec Recovery/recup_dir.1/report.xml",
-		"/Volumes/Data/vivien/Desktop/Déclaration Handicap Sonia.md",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Base-Ball.gifv",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Wasted.gifv",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/People's Elbow.gifv",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Parade Nuptiale.gifv",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/Huge Stairs Skate Jump.gifv",
-		"/Volumes/OSX Data/Users/vivien/Movies/Geek/ADHD.gifv",
-		"/Volumes/Data/vivien/Git/Dotfiles/conf/aliases",
-		"/Volumes/Data/vivien/Downloads/DI.FM - Favorites.pls"
+		"/Volumes/Data/vivien/Downloads/Testdisk 7 [2015-04-18_01-01] [2015-04-18_01-01].0/NEWS"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -290,6 +300,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"~",
+			"/Volumes/Data/vivien/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -312,26 +324,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Ascension - Novel.sublime-workspace",
-					"semi_transient": true,
+					"file": "Story/2018-01-01-origine-1.1.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15811,
+						"buffer_size": 31330,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								379,
+								379
 							]
 						],
 						"settings":
 						{
+							"SL.32.region_keys":
+							[
+							],
+							"SL.75.region_keys":
+							[
+							],
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -339,13 +356,45 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Story/2018-01-01-prologue-decadence.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"SL.34.region_keys":
+							[
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -394,7 +443,7 @@
 	"project": "Ascension - Novel.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -403,6 +452,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"_co",
+				"_config.yml"
+			],
 			[
 				"marke",
 				"_test/marked.html"
@@ -442,7 +495,7 @@
 		[
 			[
 				"",
-				"~/Digital Creation/Ascension/Ascension.sublime-project"
+				"~/Digital Creation/PubLite/PubLite.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -463,8 +516,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 265.0,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,8 +1,14 @@
----
+ ---
 title: Taylor Hebert
 category: characters
 layout: chapter
 ---
+
+
+### Description physique
+
+Taille : 170 cm (début)
+Poids : 55 kg (début)
 
 ### Pouvoirs et caractéristiques
 

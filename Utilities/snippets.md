@@ -82,5 +82,11 @@ Cette nuit-là, le voile de mes illusions s'était déchiré, me laissant à dé
 
 ### Description des pouvoirs (Taylor)
 
-J'avais l'impression d'être un des personnages de ce roman, Lestat le Vampire. Au moins en ce qui concerne les sens. J'avais l'impression de n'avoir jamais vu, jamais entendu, jamais senti. Toute ma vie, j'avais été sourde, aveugle, et sans nez. Et d'un seul coup, je percevais les *détails*. Je humais les moindres effluves, j'entendais les sons les plus infimes. Je voyais dans le noir, presque comme en plein jour et sans perte de couleur. Et j'entendais une mouche frotter ses pattes contre ses mandibules pour les enduire de salive avec un son huileux, à plus de trois mètres de moi. 
+J'avais l'impression d'être Lestat le Vampire, comme dans le roman éponyme que j'avais lu plus jeune, malgré son accès difficile en haut de la bibliothèque de Maman. Un bon livre dont l'histoire m'avait captivée mais dont la suite n'était jamais sortie. La faute à l'avènement des Supers dont les exploits bien réels avaient marginalisé toutes les fictions mettant en scène des êtres aux pouvoirs surhumains. Pourquoi lire une fiction quand on pouvait se contenter des informations ? 
+
+Dans ce roman, le héros –et tous les autres vampires, à des degrés divers– avait une panoplie de capacités extraordinaires telles que séduction, regénération, contrôle mental ou même véritable télépathie. Mais c'est surtout ses capacités sensorielles qui me rappelaient le roman, notamment la description saisissante qu'en faisait l'auteure après que Lestat ait été transformé en vampire. Mon physique était changé, mais mes sens étaient *transfigurés*.
+
+Je n'avais jamais vu, jamais entendu, jamais senti. 
+
+Comme si, inconsciemment, j'avais toujours porté des bouchons anti-bruit, des lunettes de soudure et un masque à gaz. Brusquement, je percevai la réalité, sans filtre, tous les récepteurs au *maximum*. Je humais les moindres effluves, j'entendais les sons les plus étouffés. Je voyais tout avec un luxe de détails à peine imaginable, en pleine nuit et quasiment sans perte de couleur. Je pouvais compter les facettes des yeux de la mouche qui venait de se poser sur le mur en face pour enduire ses pattes de salive désinfectante en les frottant contre ses mandibules avec un son mouillé, presque huileux. 
 Et mon équilibre. Et mes réflexes. J'étais *stable*. Je découvrais la vraie signification du mot assiette. Je sentais 
